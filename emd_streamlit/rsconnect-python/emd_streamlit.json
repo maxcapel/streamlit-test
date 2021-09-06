@@ -1,0 +1,11 @@
+{
+    "https://iamlrcondev:3939": {
+        "server_url": "https://iamlrcondev:3939",
+        "filename": "C:\\iam_dev\\personal_repos\\streamlit-test\\emd_streamlit",
+        "app_url": "https://iamlrcondev:3939/content/353/",
+        "app_id": "a6b4380e-1492-43ff-a6d4-9341aa3373f1",
+        "app_guid": "a6b4380e-1492-43ff-a6d4-9341aa3373f1",
+        "title": "emd_streamlit",
+        "app_mode": "python-streamlit"
+    }
+}
