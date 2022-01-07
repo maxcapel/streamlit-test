@@ -9,7 +9,7 @@ import streamlit as st
 import pandas as pd
 import plotly.express as px
 
-st.set_page_config(layout = 'wide')
+# st.set_page_config(layout = 'wide')
 st.title('Test')
 st.markdown(' ## ** Test ** * app * to see if streamlit works')
 st.radio(label = 'Does the app work?', options = ['Yes','No'])
